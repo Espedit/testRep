@@ -1,0 +1,8 @@
+[28-Aug-2018 11:59:51 Europe/Berlin] PHP Warning:  Division by zero in C:\xampp\htdocs\Manage_Errors\Send_errors_log_file.php on line 13
+[28-Aug-2018 12:03:24 Europe/Berlin] PHP Warning:  Division by zero in C:\xampp\htdocs\Manage_Errors\Send_errors_log_file.php on line 13
+[28-Aug-2018 12:03:49 Europe/Berlin] PHP Notice:  Undefined variable: foo in C:\xampp\htdocs\Manage_Errors\Send_errors_log_file.php on line 8
+[28-Aug-2018 12:49:49 Europe/Berlin] PHP Notice:  Undefined variable: foo in C:\xampp\htdocs\Manage_Errors\Send_errors_log_file.php on line 8
+[28-Aug-2018 12:49:52 Europe/Berlin] PHP Notice:  Undefined variable: foo in C:\xampp\htdocs\Manage_Errors\Send_errors_log_file.php on line 8
+[29-Aug-2018 12:25:50 Europe/Berlin] PHP Notice:  Undefined variable: foo in C:\xampp\htdocs\Manage_Errors\Send_errors_log_file.php on line 8
+[29-Aug-2018 12:25:51 Europe/Berlin] PHP Notice:  Undefined variable: foo in C:\xampp\htdocs\Manage_Errors\Send_errors_log_file.php on line 8
+[29-Aug-2018 12:25:55 Europe/Berlin] PHP Notice:  Undefined variable: foo in C:\xampp\htdocs\Manage_Errors\Send_errors_log_file.php on line 8
